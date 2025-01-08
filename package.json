@@ -12,5 +12,8 @@
   "devDependencies": {
     "husky": "^9.1.7",
     "vite": "^6.0.5"
+  },
+  "dependencies": {
+    "kaplay": "^3001.0.6"
   }
 }
