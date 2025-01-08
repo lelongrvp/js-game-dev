@@ -32,7 +32,7 @@ export const game = k.scene("game", () => {
     k.color(
       Math.floor(Math.random() * 256),
       Math.floor(Math.random() * 256),
-      Math.floor(Math.random() * 256)
+      Math.floor(Math.random() * 256),
     ),
     k.area(),
     k.pos(k.width(), k.height() - platform.height),
