@@ -32,7 +32,7 @@ js-game-dev/
 2. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/js-game-dev.git
+   git clone https://github.com/lelongrvp/js-game-dev.git
    cd js-game-dev
    ```
 
