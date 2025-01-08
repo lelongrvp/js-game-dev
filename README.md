@@ -1,4 +1,4 @@
-# Project Name
+# JavaScript Game Development
 
 ![Bun](https://img.shields.io/badge/Bun-v1.1+-blue) ![Vite](https://img.shields.io/badge/Vite-^6.0-purple) ![Kaplay](https://img.shields.io/badge/Kaplay-^3001-teal)
 
